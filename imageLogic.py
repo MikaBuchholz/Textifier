@@ -5,6 +5,7 @@ from PIL import Image
 
 pytesseract.pytesseract.tesseract_cmd = #Path to tesseract.exe
 
+
 class ImageLogic():
     def __init__(self):
         self.root = Tk()
