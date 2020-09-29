@@ -4,6 +4,7 @@ from PIL import Image
 import os
 import pathlib
 
+
 class TkInterImg(ImageLogic):
     def __init__(self):
         super().__init__()
